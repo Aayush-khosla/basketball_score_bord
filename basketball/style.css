@@ -1,0 +1,37 @@
+body {
+  
+   
+    background-color: #1B244A;
+    font-family: 'Cursed Timer ULiL';
+    text-align: center;
+    height: 100vh;
+}
+
+
+#ls {
+    background-color: #090913;
+    margin: 10px;
+  padding: 20px;
+  color: #EA4235;
+}
+
+#rs {
+    background-color: #090913;
+    margin: 10px;
+  padding: 20px;
+  color: #EA4235;
+}
+#main{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 10px;
+  padding: 20px;
+
+}
+#main > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
